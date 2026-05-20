@@ -38,7 +38,7 @@ https://github.com/miltutonn91/EC-site
 
 | 操作 | 内容 |
 |---|---|
-| `index.html` をブラウザで開く | ローカル環境でサイトを確認 |
+| `index.html` をブラウザで開く | ローカル環境で表示確認 |
 
 ---
 
@@ -54,3 +54,26 @@ EC-site/
 ├── .gitignore
 ├── .nojekyll
 └── README.md
+```
+
+---
+
+## 開発環境構築方法
+
+### 1. リポジトリをクローン
+
+```bash
+git clone https://github.com/miltutonn91/EC-site.git
+```
+
+### 2. ディレクトリへ移動
+
+```bash
+cd EC-site
+```
+
+### 3. ブラウザで確認
+
+`index.html` をブラウザで開くことで、ローカル環境で表示確認できます。
+
+本サイトは静的なHTML / CSS / JavaScriptで制作しているため、パッケージのインストールやビルド作業は不要です。
