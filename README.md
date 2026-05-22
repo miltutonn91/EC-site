@@ -26,7 +26,7 @@ https://github.com/miltutonn91/EC-site
 
 ---
 
-## 主要技術
+## 主要技術・ツール
 
 | 技術 | 用途 |
 |---|---|
