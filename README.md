@@ -1,4 +1,4 @@
-# CHIFFONTE ECサイト
+# CHIFFONTE｜ECサイト
 
 ## プロジェクトの概要
 
